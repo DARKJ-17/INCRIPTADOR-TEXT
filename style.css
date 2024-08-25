@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: #d4dde4;
+    background-color: #f4f4fc;
 }
 
 header{
@@ -39,9 +39,9 @@ main{
 
 .cajatexto{
     width: 80%;
-    height: 90%;
+    height: 100%;
     border: none;
-    background-color: #ebeef3;
+    background-color: #f4f4fc;
     cursor: pointer;
     color: #0A3871;
     font-size: 32px;
